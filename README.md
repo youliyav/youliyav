@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - Redis 🧰
 - ...and more listed in my repositories!
 
-## Technologies I work with:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CC2927?style=flat-square&logo=sqlalchemy&logoColor=white)
