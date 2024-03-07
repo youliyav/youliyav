@@ -38,9 +38,4 @@ Here are some ideas to get you started:
 ## Stats:
 ![Julia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youliyav&show_icons=true)
 
-## Let's Connect:
-- [Telegram](https://t.me/youliyav)
-- [Email](mailto:youliyav@gmail.com)
-
-Thank you for visiting my profile!
 
