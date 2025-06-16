@@ -1,9 +1,10 @@
-Backend Python Developer specializing in ETL systems and data processing.
-Currently focused on high-performance data collection and processing solutions.
+Hi, I'm Julia. I like Python and data systems 👨‍💻
 
-**Technologies:** Python, FastAPI, SQLAlchemy, PostgreSQL, Pydantic
+- I do like ETL automation 🔄
+- I am interested in parsing protected sources 🛡️
+- I enjoy solving performance challenges ⚡
 
----
+**Technologies:** 
+Python • FastAPI • SQLAlchemy • PostgreSQL • Pydantic • Alembic
+
 *Most significant projects are under NDA*
-
-
